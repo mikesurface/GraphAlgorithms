@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EricLipertImmutableGraphs", "EricLipertImmutableGraphs\EricLipertImmutableGraphs.csproj", "{1B2712B1-72A6-46E1-88BE-906C48F6CF7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTheory.UnitTests", "GraphTheory.UnitTests\GraphTheory.UnitTests.csproj", "{DD39EC78-0AF3-4492-BAA3-DE5C581FAE4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B2712B1-72A6-46E1-88BE-906C48F6CF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2712B1-72A6-46E1-88BE-906C48F6CF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2712B1-72A6-46E1-88BE-906C48F6CF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2712B1-72A6-46E1-88BE-906C48F6CF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD39EC78-0AF3-4492-BAA3-DE5C581FAE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD39EC78-0AF3-4492-BAA3-DE5C581FAE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD39EC78-0AF3-4492-BAA3-DE5C581FAE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD39EC78-0AF3-4492-BAA3-DE5C581FAE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
